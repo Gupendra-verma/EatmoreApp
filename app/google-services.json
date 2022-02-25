@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440587609403",
+    "project_id": "premium-node-324609",
+    "storage_bucket": "premium-node-324609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440587609403:android:0e419ca64614931fb6831e",
+        "android_client_info": {
+          "package_name": "com.example.eatmoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440587609403-66ooht0ce7d54rhj22ccrd2lsi2oa3hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatmoreapp",
+            "certificate_hash": "6a4ba8ecf78cc693c3e7fe8251813e80a67cfc76"
+          }
+        },
+        {
+          "client_id": "440587609403-vs3vfth7quvrgc2gr4tvakkjf091jstb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEtfoBrIxc5Txo1Rp7BBTpvvHBVW-dug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440587609403-vs3vfth7quvrgc2gr4tvakkjf091jstb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
